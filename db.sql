@@ -32,3 +32,5 @@ SET reg_date = NOW(),
 perform_date = '2022-05-18 08:00:00',
 is_completed = 0,
 content = '아침식사';
+
+SELECT * FROM todo;
